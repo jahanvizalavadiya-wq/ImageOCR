@@ -1,0 +1,6 @@
+@ImageOCR_HostAddress = http://localhost:5037
+
+GET {{ImageOCR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
