@@ -1,0 +1,11 @@
+# React
+node_modules/
+build/
+
+# .NET
+bin/
+obj/
+
+# Environment files
+.env
+appsettings.json
